@@ -31,11 +31,28 @@ FAD (currently running in production)
   
   
 
-
-
-
-
-
-
-
 ### Contracts
+Adobe Subscription for Stony Brook Medicine / Stony Brook University - All purchases for SBM are merged into this account
+  * 4 Creative Cloud Apps for Web Team  
+  * Michelle McTernan manages her Photoshop subscriptions  
+  
+Browserstack - Web browser testing tool  
+  * 6 accounts  
+  
+Apple Developer Enterprise Program  
+
+Pantheon - Drupal hosting services  
+  * 45 sites  
+  
+Pluralsight - Online technical training library  
+  * 5 user license    
+
+Github Enterprise  
+  * [Site](https://github.bmi.stonybrookmedicine.edu/)  
+  * 15 user license  
+  * Erich Bremmer/Janos Hajagos/Rob Davidson - primary users  
+  * Brian Ennis - application support  
+  
+  
+
+
