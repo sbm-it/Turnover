@@ -14,10 +14,24 @@ Description: Creation of a repository of reports.  Pulling metadata from source 
   
 Business Intelligence Gateway  
 Description:  Dashboard of all Tableau vizualizations (both on-prem and HealtheIntent).  
-  * [Trusted Ticket]()  
-  * [FrontEnd]()
+  * [Trusted Ticket](https://github.com/sbm-it/Catalyze-PROD/tree/development/routes/tableautt) - included in Datica Development route (to be merged into Master when ready)
+  * [FrontEnd](https://github.com/sbm-it/BIG-Dashboard) - uses Tableau API for on-prem content access and CSV for HealtheIntent content access  
+  * [FrontEnd Prototype](https://github.com/sbm-it/BIG-Portal-Prototype) - uses CSV for managing content access  
+  * [Trusted Ticket Prototype](https://github.com/sbm-it/tableauAuthentication)  
 
-### Production Support
+### Production Support  
+Patient Messaging System  
+Switchboard Distribution Requests  
+Stony Brook Directory  
+Sourhtampton Directory  
+FAD (currently running in production)
+  * [Visual Data Flow](https://github.com/sbm-it/Turnover/blob/master/Find%20A%20Doctor%20Data%20Flow.png)
+  * ETL Scripts (prod) - \\sbm16db2p.uhmc.sbuh.stonybrook.edu\FindADoc\etl
+  * ETL Scripts (dev) - \\dev16db1.uhmc.sunysb.edu\FindADoc\etl
+  
+  
+
+
 
 
 
