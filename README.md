@@ -24,25 +24,34 @@ Description:  Dashboard of all Tableau vizualizations (both on-prem and HealtheI
 
 ### Production Support  
 [API Auditor](https://github.com/sbm-it/apiAuditor) - Tool to test API endpoints on Datica  
+
 [Patient Messaging System](https://github.com/sbm-it/PatientMessagingSystem)  
   * See Brigitte Borhi-Zahn  
+  
 [Switchboard Distribution Requests](https://github.com/sbm-it/switchboard-distribution-request)  
   * See Ken Piorun
+  
 [Stony Brook Directory](https://github.com/sbm-it/StonyBrookDirectory)  
   * See Brianne Vought  
+  
 [Sourhtampton Directory](https://github.com/sbm-it/SouthamptonDirectory)  
   * See Brianne Vought  
+  
 [Alumni Hosts](https://github.com/sbm-it/AlumniMaps)  
   * See Mary Hoffman  
+  
 [Datica](https://github.com/sbm-it/Catalyze-PROD)  
-  * See Hasit Shah
+  * See Hasit Shah  
+  
 FAD (currently running in production)
   * [Visual Data Flow](https://github.com/sbm-it/Turnover/blob/master/Find%20A%20Doctor%20Data%20Flow.png)
   * ETL Scripts (prod) - \\sbm16db2p.uhmc.sbuh.stonybrook.edu\FindADoc\etl
-  * ETL Scripts (dev) - \\dev16db1.uhmc.sunysb.edu\FindADoc\etl
+  * ETL Scripts (dev) - \\dev16db1.uhmc.sunysb.edu\FindADoc\etl  
+  
 Yext (adds and deleted tested.  Edits need testing)
   * See Barbara Cole
   * https://github.com/sbm-it/YextMaintenance  
+  
 [OxfordRemitesReconciled](https://github.com/sbm-it/OxfordRemitsReconciled)  
   * See Mike Dejewski (CPMP)
   * PowerShell scripts to manipulate data files  
