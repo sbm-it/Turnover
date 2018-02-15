@@ -23,40 +23,69 @@ Description:  Dashboard of all Tableau vizualizations (both on-prem and HealtheI
   * [Trusted Ticket Prototype](https://github.com/sbm-it/tableauAuthentication)  
 
 ### Production Support  
-Patient Messaging System  
-Switchboard Distribution Requests  
-Stony Brook Directory  
-Sourhtampton Directory  
-Alumni Hosts
+[API Auditor](https://github.com/sbm-it/apiAuditor) - Tool to test API endpoints on Datica  
+[Patient Messaging System](https://github.com/sbm-it/PatientMessagingSystem)  
+  * See Brigitte Borhi-Zahn  
+[Switchboard Distribution Requests](https://github.com/sbm-it/switchboard-distribution-request)  
+  * See Ken Piorun
+[Stony Brook Directory](https://github.com/sbm-it/StonyBrookDirectory)  
+  * See Brianne Vought  
+[Sourhtampton Directory](https://github.com/sbm-it/SouthamptonDirectory)  
+  * See Brianne Vought  
+[Alumni Hosts](https://github.com/sbm-it/AlumniMaps)  
+  * See Mary Hoffman  
+[Datica](https://github.com/sbm-it/Catalyze-PROD)  
+  * See Hasit Shah
 FAD (currently running in production)
   * [Visual Data Flow](https://github.com/sbm-it/Turnover/blob/master/Find%20A%20Doctor%20Data%20Flow.png)
   * ETL Scripts (prod) - \\sbm16db2p.uhmc.sbuh.stonybrook.edu\FindADoc\etl
   * ETL Scripts (dev) - \\dev16db1.uhmc.sunysb.edu\FindADoc\etl
+Yext (adds and deleted tested.  Edits need testing)
+  * See Barbara Cole
+  * https://github.com/sbm-it/YextMaintenance  
+[OxfordRemitesReconciled](https://github.com/sbm-it/OxfordRemitsReconciled)  
+  * See Mike Dejewski (CPMP)
+  * PowerShell scripts to manipulate data files  
   
+  
+### Proofs of Concepts  
+  * [SmartSheet API](https://github.com/sbm-it/SmartSheetAPI) - Testing client access to SmartSheet APIs.  Will need a proxy...
+  * [SMART on FHIR exploratory app](https://github.com/sbm-it/throughTheLookingGlass) - going against Cerner's sandbox.  
+  * [Yext Webhooks/GCP Functions & Datastore](https://github.com/sbm-it/yextSync & https://github.com/sbm-it/yextReviews)  
+  * [Vanilla JS Web Component](https://github.com/sbm-it/component)  
+  * [Redcap API](https://github.com/sbm-it/redcap-neurology) - requested by user, but never utilized  
+  * [Datica AWS File Manager](https://github.com/sbm-it/datica-file-manager) - managing files on AWS bucket via Datica subscription  
+  * []()  
+  * []()  
+  * []()  
+  * []()  
   
 
 ### Contracts
-Adobe Subscription for Stony Brook Medicine / Stony Brook University - All purchases for SBM are merged into this account
+Adobe Subscription for Stony Brook Medicine / Stony Brook University - All purchases for SBM are merged into this account - @ July  
   * 4 Creative Cloud Apps for Web Team  
   * Michelle McTernan manages her Photoshop subscriptions  
   
-Browserstack - Web browser testing tool  
+Browserstack - Web browser testing tool - ~July  
   * 6 accounts  
   
-Apple Developer Enterprise Program  
+Apple Developer Enterprise Program - ~January  
 
-Pantheon - Drupal hosting services  
+Pantheon - Drupal hosting services - ~July  
   * 45 sites  
   
-Pluralsight - Online technical training library  
+Pluralsight - Online technical training library - ~December  
   * 5 user license    
 
-Github Enterprise  
+Github Enterprise - ~July  
   * [Site](https://github.bmi.stonybrookmedicine.edu/)  
   * 15 user license  
   * Erich Bremmer/Janos Hajagos/Rob Davidson - primary users  
   * Brian Ennis - application support  
   
+GoDaddy - Domain name registration - Multiple months
+  * See Barbara Cole  
+ 
   
 
 
