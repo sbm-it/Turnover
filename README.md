@@ -71,6 +71,9 @@ Yext (adds and deleted tested.  Edits need testing)
   
 
 ### Contracts
+Pantheon - Drupal hosting services - ~July  
+  * 45 sites  
+  
 Adobe Subscription for Stony Brook Medicine / Stony Brook University - All purchases for SBM are merged into this account - @ July  
   * 4 Creative Cloud Apps for Web Team  
   * Michelle McTernan manages her Photoshop subscriptions  
@@ -79,10 +82,7 @@ Browserstack - Web browser testing tool - ~July
   * 6 accounts  
   
 Apple Developer Enterprise Program - ~January  
-
-Pantheon - Drupal hosting services - ~July  
-  * 45 sites  
-  
+ 
 Pluralsight - Online technical training library - ~December  
   * 5 user license    
 
@@ -97,6 +97,16 @@ GoDaddy - Domain name registration - Multiple months
   
 SupportSystem - Ticketing system for the web team - ~March  
   * See Barbara Cole  
+  
+True Type Fonts - font license for SBM authorized fonts - ~January
+  * See Danielle Greco  
+  
+Getty Images - Stock image library - ~January  
+  * See Danielle Greco/Barbara Cole  
+  * Subscription shared with SBM Communications & SB Communications  
+  * Paid by SB Communications  
+  * Each party pays 1/3 of the cost  
+  
   
   
  
